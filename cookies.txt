@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+moglokossi01.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1710876504|XUCeILiFscvn
+moglokossi01.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
+.wix.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1710876584|jNMgZak5_vKs
+.wix.com	TRUE	/	FALSE	1999999999	_wixUIDX	null-user-id
+.wix.com	TRUE	/	FALSE	1999999999	_wixCIDX	d2c29368-a571-4c7b-b521-37043df10f73
+www.wix.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.wix.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss_miss#dc#desc=fastly_84
+.wix.com	TRUE	/	FALSE	1999999999	_wixRIDX	d2c29368-a571-4c7b-b521-37043df10f73
+moglokossi01.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=84_g
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	01d72e6d165b088db919445a2f6243736ce24d934da52f4cd6743e2354cdd6477d204e111c581d68dbf9d9ce839899e16693ab274b
+
